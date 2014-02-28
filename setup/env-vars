@@ -1,0 +1,7 @@
+#export JAVA_HOME=/home/ikujam/.gentoo/java-config-2/current-user-vm
+#export JAVAC=/home/ikujam/.gentoo/java-config-2/current-user-vm/bin/javac
+#export JDK_HOME=/home/ikujam/.gentoo/java-config-2/current-user-vm
+
+export JMETER_HOME=~/share/apps/jmeter/apache-jmeter-2.11/
+#export LANG=C
+

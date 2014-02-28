@@ -1,0 +1,31 @@
+---- en ----
+
+this folder contains scripts to start benchmarking tools : 
+
+
+* start-jmeter.sh 
+
+read "env-vars" file and run jmeter instance
+
+
+* env-vars.sample
+
+related environment variables, sample file.
+adapt it to your needs and rename it to "env-vars"
+
+
+
+---- fr ----
+
+ce dossier contient des scripts pour lancer des outils de banch :
+
+
+* start-jmeter.sh 
+
+lecture du fichier "env-vars" et lancement d'une instance jmeter 
+
+
+* env-vars.sample
+
+des variables d'environnement liés à l'outil, fichier type.
+adaptez-le à vos besoins et renommer-le en "env-vars"
